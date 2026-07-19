@@ -6,7 +6,9 @@ Each notebook focuses on a small concept — things like structured outputs, con
 
 ## Contents
 
-- `7_conditional.ipynb` — Conditional routing with LangGraph: classifies a review's sentiment and routes it to either a thank-you response or a diagnosis + support response.
+- `7_conditional.ipynb` - Conditional routing with LangGraph: classifies a review's sentiment and routes it to either a thank-you response or a diagnosis + support response.
+
+- `8_iterative.ipynb` Iterative Tweet Generator - This notebook demonstrates iterative generation, evaluation, and optimization of tweets using langgraph and langchain LLMs.
 
 ## Setup
 
