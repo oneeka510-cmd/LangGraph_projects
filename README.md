@@ -2,6 +2,7 @@
 
 <img width="292" height="372" alt="image" src="https://github.com/user-attachments/assets/97eb0809-3287-4693-8178-d61bd13b872c" />
 <img width="390" height="432" alt="image" src="https://github.com/user-attachments/assets/bc877841-c139-4e65-b3b0-5e2545942f42" />
+<img width="591" height="333" alt="image" src="https://github.com/user-attachments/assets/30f7b3cd-b5f0-4084-bd44-3fe1f155da91" />
 
 These are basic examples to understand and practice LangChain (and LangGraph).
 
